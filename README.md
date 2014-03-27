@@ -1,4 +1,0 @@
-MeetingScheduler
-================
-
-Time Manager
